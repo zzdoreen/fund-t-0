@@ -1,0 +1,6 @@
+{
+  "name": "基金做T记录系统",
+  "description": "专业的高颜值基金做T（日内/波段）交易流水记录与收益图表分析工具，支持图形化做T节点渲染（未结清买红/卖绿，已结清做T置灰）、成本底仓平摊折算、自动与手动做T匹配对冲、以及多维度胜率统计。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
